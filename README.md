@@ -280,5 +280,6 @@ digicode:
 ```
 
 Once all information is gathered, it can be displayed in HA.
+![last access](./img/digicode-lastAccess.jpg)
 
 
