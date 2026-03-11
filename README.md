@@ -1,7 +1,3 @@
-Here is the translation into English, keeping the code blocks and Markdown formatting intact.
-
----
-
 # Wiegand Keypad
 
 Based on the code [https://github.com/algorytmix02/wiegand-2-mqtt/blob/main/RFID_Wiegand_MQTT.ino](https://github.com/algorytmix02/wiegand-2-mqtt/blob/main/RFID_Wiegand_MQTT.ino)
@@ -285,6 +281,4 @@ digicode:
 
 Once all information is gathered, it can be displayed in HA.
 
----
 
-Would you like me to help you refine the Python script for error handling or assist with the Home Assistant dashboard setup?
